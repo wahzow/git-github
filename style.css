@@ -3,3 +3,10 @@
     padding: 0;
     list-style: none;
 }
+header{
+    border-color: blueviolet;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
